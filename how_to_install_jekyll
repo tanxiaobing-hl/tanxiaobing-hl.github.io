@@ -7,3 +7,5 @@ How to install jekyll in Ubuntu?
       sudo gem install --http-proxy https://ip:port jekyll
 4. install bundler
       sudo gem install --http-proxy https://ip:port bundler
+5. install minima
+      sudo gem install --http-proxy https://ip:port minima
