@@ -1,0 +1,7 @@
+How to install jekyll in Ubuntu?
+1. install ruby:  
+      sudo apt-get install ruby
+2. install ruby-devel:
+      sudo apt-get install ruby-all-dev
+3. install jekyll
+      sudo gem install --http-proxy https://ip:port jekyll
